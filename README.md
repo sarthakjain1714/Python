@@ -20,7 +20,7 @@ Each notebook contains:
 - 🧠 **Practice problems**
 
 ## 📣 Updates
-📢 I will regularly update this repository and share progress and new additions on [LinkedIn](https://www.linkedin.com/in/your-profile/) *(update link with your profile)*.
+📢 I will regularly update this repository and share progress and new additions on [LinkedIn](https://www.linkedin.com/in/sarthak-jain1714) 
 
 ---
 
